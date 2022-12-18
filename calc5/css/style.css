@@ -1,0 +1,12 @@
+body{background: #a95ddb;}
+h1,h3, button{
+    text-align: center;
+}
+.wrapper {
+    text-align: center;
+    border: 1mm ridge #000;
+    background-color: #ffffff;
+    width: 500px;
+    margin-left: 35%;
+    margin-top: 55px;
+}
